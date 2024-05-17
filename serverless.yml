@@ -1,0 +1,19 @@
+service: wegmans-embeddings-api
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+
+functions:
+  api:
+    handler: ./src/lambdas/GroceryList.handler
+    events:
+      - httpApi:
+          path: /grocery-list
+          method: post
+    timeout: 30
+
+plugins:
+  - serverless-offline
+  - serverless-plugin-typescript

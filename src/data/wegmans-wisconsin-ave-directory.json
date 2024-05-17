@@ -1,0 +1,778 @@
+[
+  {
+    "item": "Air Fresheners",
+    "location": "8B"
+  },
+  {
+    "item": "Aluminum Foil",
+    "location": "9B"
+  },
+  {
+    "item": "Antacids",
+    "location": "8A"
+  },
+  {
+    "item": "Applesauce",
+    "location": "13B"
+  },
+  {
+    "item": "Aspirin",
+    "location": "8A"
+  },
+  {
+    "item": "Baby Food",
+    "location": "8B"
+  },
+  {
+    "item": "Baby Formula",
+    "location": "8B"
+  },
+  {
+    "item": "Baked Beans",
+    "location": "13B"
+  },
+  {
+    "item": "Baking Mix-Gluten Free",
+    "location": "9A"
+  },
+  {
+    "item": "Bandejas",
+    "location": "9A"
+  },
+  {
+    "item": "Barbecue Sauce",
+    "location": "10A"
+  },
+  {
+    "item": "Barley",
+    "location": "12A"
+  },
+  {
+    "item": "Bath Tissue",
+    "location": "9B"
+  },
+  {
+    "item": "Batteries",
+    "location": "Front End"
+  },
+  {
+    "item": "Beans",
+    "location": "13B"
+  },
+  {
+    "item": "Bleach",
+    "location": "8B"
+  },
+  {
+    "item": "Body Wash",
+    "location": "9A"
+  },
+  {
+    "item": "Bouillon",
+    "location": "12B"
+  },
+  {
+    "item": "Bread Crumbs",
+    "location": "10A"
+  },
+  {
+    "item": "Bread, Wheat Packaged",
+    "location": "Bakery"
+  },
+  {
+    "item": "Breakfast Drinks",
+    "location": "11B"
+  },
+  {
+    "item": "Butter",
+    "location": "Dairy"
+  },
+  {
+    "item": "Cake Mix",
+    "location": "11A"
+  },
+  {
+    "item": "Candies-Butlery",
+    "location": "11A"
+  },
+  {
+    "item": "Candy-Grocery",
+    "location": "6A"
+  },
+  {
+    "item": "Canola/Corn Oil",
+    "location": "11A"
+  },
+  {
+    "item": "Capers",
+    "location": "9B"
+  },
+  {
+    "item": "Cat Food",
+    "location": "9B"
+  },
+  {
+    "item": "Cereal",
+    "location": "11B"
+  },
+  {
+    "item": "Chili",
+    "location": "13B"
+  },
+  {
+    "item": "Chili Sauce",
+    "location": "12A"
+  },
+  {
+    "item": "Chocolate Syrup",
+    "location": "10B"
+  },
+  {
+    "item": "Cleaners",
+    "location": "8B"
+  },
+  {
+    "item": "Club Soda",
+    "location": "9B"
+  },
+  {
+    "item": "Cocktail Mixes",
+    "location": "5B"
+  },
+  {
+    "item": "Cocktail Sauce",
+    "location": "10A"
+  },
+  {
+    "item": "Coffee",
+    "location": "10B"
+  },
+  {
+    "item": "Coffee Drinks",
+    "location": "10B"
+  },
+  {
+    "item": "Cookies",
+    "location": "6A"
+  },
+  {
+    "item": "Cookies-Gluten Free",
+    "location": "9A"
+  },
+  {
+    "item": "Cooking Spray",
+    "location": "11A"
+  },
+  {
+    "item": "Cotton Swabs",
+    "location": "8A"
+  },
+  {
+    "item": "Cough Drops",
+    "location": "9A"
+  },
+  {
+    "item": "Couscous",
+    "location": "12A"
+  },
+  {
+    "item": "Crackers",
+    "location": "6A"
+  },
+  {
+    "item": "Croutons",
+    "location": "10A"
+  },
+  {
+    "item": "Dental Floss",
+    "location": "8B"
+  },
+  {
+    "item": "Deodorant/Anti-Perpirant",
+    "location": "8B"
+  },
+  {
+    "item": "Diapers",
+    "location": "8B"
+  },
+  {
+    "item": "Dish Detergent",
+    "location": "8B"
+  },
+  {
+    "item": "Dog Food",
+    "location": "9B"
+  },
+  {
+    "item": "Dried Fruit",
+    "location": "5A"
+  },
+  {
+    "item": "Drink Mix-Powdered",
+    "location": "5A"
+  },
+  {
+    "item": "Ear Drops",
+    "location": "8A"
+  },
+  {
+    "item": "Eggs",
+    "location": "Dairy"
+  },
+  {
+    "item": "Energy Drinks",
+    "location": "6B"
+  },
+  {
+    "item": "Fabric Softener",
+    "location": "8B"
+  },
+  {
+    "item": "Face Make-Up",
+    "location": "8A"
+  },
+  {
+    "item": "Flour",
+    "location": "11A"
+  },
+  {
+    "item": "Food Coloring",
+    "location": "11A"
+  },
+  {
+    "item": "Food Containers",
+    "location": "9B"
+  },
+  {
+    "item": "French Fries",
+    "location": "14B"
+  },
+  {
+    "item": "Fried Onions",
+    "location": "10A"
+  },
+  {
+    "item": "Fruit-Frozen",
+    "location": "13B"
+  },
+  {
+    "item": "Fruit Cocktail",
+    "location": "13B"
+  },
+  {
+    "item": "Fruit Snacks",
+    "location": "11B"
+  },
+  {
+    "item": "Furniture Polish",
+    "location": "8B"
+  },
+  {
+    "item": "Garlic, Jarred",
+    "location": "12B"
+  },
+  {
+    "item": "Gluten-Free Bread",
+    "location": "9A"
+  },
+  {
+    "item": "Granola Bars",
+    "location": "11B"
+  },
+  {
+    "item": "Gravy",
+    "location": "10A"
+  },
+  {
+    "item": "Hair Care Items",
+    "location": "8A"
+  },
+  {
+    "item": "Hair Gel",
+    "location": "8A"
+  },
+  {
+    "item": "Hand Cream",
+    "location": "8A"
+  },
+  {
+    "item": "Honey",
+    "location": "10B"
+  },
+  {
+    "item": "Horse-radish",
+    "location": "10A"
+  },
+  {
+    "item": "Hot Chocolate",
+    "location": "10B"
+  },
+  {
+    "item": "Hot Dogs",
+    "location": "Dairy"
+  },
+  {
+    "item": "Ice",
+    "location": "14A"
+  },
+  {
+    "item": "Ice Cream",
+    "location": "14A"
+  },
+  {
+    "item": "Ice Cream Cones",
+    "location": "14A"
+  },
+  {
+    "item": "Ice Cream Topping",
+    "location": "14A"
+  },
+  {
+    "item": "Iced Tea Mix",
+    "location": "5A"
+  },
+  {
+    "item": "Insect Repellents",
+    "location": "8B"
+  },
+  {
+    "item": "Instant Potatoes",
+    "location": "10A"
+  },
+  {
+    "item": "Jelly",
+    "location": "10B"
+  },
+  {
+    "item": "Juice",
+    "location": "6B"
+  },
+  {
+    "item": "Ketchup",
+    "location": "10A"
+  },
+  {
+    "item": "Kitchen Tools",
+    "location": "9B"
+  },
+  {
+    "item": "Kombucha",
+    "location": "Dairy"
+  },
+  {
+    "item": "Kosher Candles",
+    "location": "12B"
+  },
+  {
+    "item": "Kosher Salt",
+    "location": "11A"
+  },
+  {
+    "item": "Laundry Detergent",
+    "location": "8B"
+  },
+  {
+    "item": "Macaroni & Cheese",
+    "location": "10A"
+  },
+  {
+    "item": "Maraschino Cherries",
+    "location": "13B"
+  },
+  {
+    "item": "Marinade",
+    "location": "10A"
+  },
+  {
+    "item": "Marshmallow Crème",
+    "location": "10B"
+  },
+  {
+    "item": "Marshmallows",
+    "location": "6A"
+  },
+  {
+    "item": "Mayonnaise",
+    "location": "10A"
+  },
+  {
+    "item": "Mexican Meal Kits",
+    "location": "13A"
+  },
+  {
+    "item": "Milk-National Brand",
+    "location": "Dairy"
+  },
+  {
+    "item": "Milk-Aseptic",
+    "location": "Dairy"
+  },
+  {
+    "item": "Mouthwash",
+    "location": "8B"
+  },
+  {
+    "item": "Mushrooms",
+    "location": "Produce"
+  },
+  {
+    "item": "Mustard",
+    "location": "10A"
+  },
+  {
+    "item": "Napkins",
+    "location": "9B"
+  },
+  {
+    "item": "Nuts",
+    "location": "5A"
+  },
+  {
+    "item": "Oatmeal",
+    "location": "11B"
+  },
+  {
+    "item": "Olive Oil",
+    "location": "10A"
+  },
+  {
+    "item": "Olives",
+    "location": "10A"
+  },
+  {
+    "item": "Oven Bags",
+    "location": "9B"
+  },
+  {
+    "item": "Pancake Mix",
+    "location": "11A"
+  },
+  {
+    "item": "Paper Towels",
+    "location": "9B"
+  },
+  {
+    "item": "Parmesan Cheese",
+    "location": "Dairy"
+  },
+  {
+    "item": "Pasta",
+    "location": "12B"
+  },
+  {
+    "item": "Pasta Sauce",
+    "location": "12B"
+  },
+  {
+    "item": "Pasta",
+    "location": "Canned"
+  },
+  {
+    "item": "Pasta-Gluten Free",
+    "location": "9A"
+  },
+  {
+    "item": "Peanut Butter",
+    "location": "10B"
+  },
+  {
+    "item": "Peanuts",
+    "location": "5A"
+  },
+  {
+    "item": "Pet Supplies",
+    "location": "9B"
+  },
+  {
+    "item": "Pickles",
+    "location": "10A"
+  },
+  {
+    "item": "Pimento",
+    "location": "13B"
+  },
+  {
+    "item": "Pine Nuts",
+    "location": "12B"
+  },
+  {
+    "item": "Pizza Sauce",
+    "location": "12B"
+  },
+  {
+    "item": "Pizza-Frozen",
+    "location": "14A"
+  },
+  {
+    "item": "Plant-Based Beverages",
+    "location": "9A"
+  },
+  {
+    "item": "Plastic Bags",
+    "location": "9B"
+  },
+  {
+    "item": "Plastic Cups",
+    "location": "9B"
+  },
+  {
+    "item": "Plastic Wrap",
+    "location": "9B"
+  },
+  {
+    "item": "Popcorn",
+    "location": "Microwave"
+  },
+  {
+    "item": "Potato Chips",
+    "location": "7A"
+  },
+  {
+    "item": "Pretzels",
+    "location": "7A"
+  },
+  {
+    "item": "Prunes",
+    "location": "5A"
+  },
+  {
+    "item": "Raisins",
+    "location": "5A"
+  },
+  {
+    "item": "Ramen Noodles",
+    "location": "12A"
+  },
+  {
+    "item": "Razors/Shavers",
+    "location": "8B"
+  },
+  {
+    "item": "Relish",
+    "location": "10A"
+  },
+  {
+    "item": "Rice",
+    "location": "12A"
+  },
+  {
+    "item": "Rice Cakes",
+    "location": "12A"
+  },
+  {
+    "item": "Rubbing Alcohol",
+    "location": "8A"
+  },
+  {
+    "item": "Salad Dressing",
+    "location": "10A"
+  },
+  {
+    "item": "Salsa",
+    "location": "12A"
+  },
+  {
+    "item": "Salt",
+    "location": "11A"
+  },
+  {
+    "item": "Sanitary Pads",
+    "location": "8A"
+  },
+  {
+    "item": "Sanitizer",
+    "location": "8B"
+  },
+  {
+    "item": "Seasoning",
+    "location": "11A"
+  },
+  {
+    "item": "Shampoo",
+    "location": "8A"
+  },
+  {
+    "item": "Shortening",
+    "location": "11A"
+  },
+  {
+    "item": "Sleep Aids",
+    "location": "8A"
+  },
+  {
+    "item": "Snacks",
+    "location": "6A"
+  },
+  {
+    "item": "Soap",
+    "location": "8A"
+  },
+  {
+    "item": "Soda Pop",
+    "location": "5A"
+  },
+  {
+    "item": "Soup",
+    "location": "12B"
+  },
+  {
+    "item": "Soy Milk",
+    "location": "Dairy"
+  },
+  {
+    "item": "Soy Sauce",
+    "location": "12A"
+  },
+  {
+    "item": "Sparkling Water/Seltzer",
+    "location": "7B"
+  },
+  {
+    "item": "Specialty Oil",
+    "location": "10A"
+  },
+  {
+    "item": "Spices",
+    "location": "11A"
+  },
+  {
+    "item": "Sponge",
+    "location": "8B"
+  },
+  {
+    "item": "Sports Drinks",
+    "location": "6B"
+  },
+  {
+    "item": "Steak Sauce",
+    "location": "10A"
+  },
+  {
+    "item": "Stuffing",
+    "location": "10A"
+  },
+  {
+    "item": "Stuffing Mix",
+    "location": "10A"
+  },
+  {
+    "item": "Sugar",
+    "location": "11A"
+  },
+  {
+    "item": "Sugar-substitute",
+    "location": "8A"
+  },
+  {
+    "item": "Syrup",
+    "location": "11A"
+  },
+  {
+    "item": "Tacos",
+    "location": "13A"
+  },
+  {
+    "item": "Tea",
+    "location": "5A"
+  },
+  {
+    "item": "Tea Bags",
+    "location": "10B"
+  },
+  {
+    "item": "Tea-Brewed/Grocery",
+    "location": "5A"
+  },
+  {
+    "item": "Teas-Herbal/Natural",
+    "location": "10B"
+  },
+  {
+    "item": "Tofu",
+    "location": "Dairy"
+  },
+  {
+    "item": "Tomato Paste",
+    "location": "12B"
+  },
+  {
+    "item": "Tomatoes",
+    "location": "Produce"
+  },
+  {
+    "item": "Tonic Water",
+    "location": "5B"
+  },
+  {
+    "item": "Toothpaste",
+    "location": "8B"
+  },
+  {
+    "item": "Toothpicks",
+    "location": "9B"
+  },
+  {
+    "item": "Tortillas-Refrigerated",
+    "location": "13A"
+  },
+  {
+    "item": "Trail Bars",
+    "location": "8B"
+  },
+  {
+    "item": "Travel Accessories",
+    "location": "8A"
+  },
+  {
+    "item": "Tuna",
+    "location": "13B"
+  },
+  {
+    "item": "Umbrella",
+    "location": "Front End"
+  },
+  {
+    "item": "Vegetable Oil",
+    "location": "11A"
+  },
+  {
+    "item": "Vegetables - Frozen",
+    "location": "13B"
+  },
+  {
+    "item": "Vegetables - Mixed",
+    "location": "13B"
+  },
+  {
+    "item": "Vinegar",
+    "location": "10A"
+  },
+  {
+    "item": "Vitamins",
+    "location": "8A"
+  },
+  {
+    "item": "Water-Basic",
+    "location": "5B"
+  },
+  {
+    "item": "Wax Paper",
+    "location": "9B"
+  },
+  {
+    "item": "Wheat Germ",
+    "location": "11B"
+  },
+  {
+    "item": "Whipped Topping-Tub",
+    "location": "14A"
+  },
+  {
+    "item": "Worcestershire Sauce",
+    "location": "10A"
+  },
+  {
+    "item": "Yeast",
+    "location": "11A"
+  }
+]

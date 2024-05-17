@@ -1,0 +1,13 @@
+# Mac stuff
+.DS_Store
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.env
+
+# Typescript
+.build
